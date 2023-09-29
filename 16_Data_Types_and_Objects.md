@@ -487,7 +487,7 @@ The following code snippet shows several ways to assign values to data objects.
 DATA some_int TYPE i VALUE 123.
 
 "Assignment using the assignement operator =
-"The source of the assigment on the right side (also known as general expressions posisiton) 
+"The source of the assigment on the right side (also known as general expressions position) 
 "can be specified with many things.
 
 "Single data object as source of the assignment
